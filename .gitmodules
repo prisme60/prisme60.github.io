@@ -1,0 +1,3 @@
+[submodule "PremierGalopWeb"]
+	path = PremierGalopWeb
+	url = git@github.com:prisme60/PremierGalopWeb.git
